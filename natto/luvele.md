@@ -59,7 +59,7 @@ If the texture or flavor bother you, I've substituted in natto for tofu in miso 
 ### Nutrition
 I use Natto to get my daily intake of potassium and iron. I've been struggling with my iron levels & between the natto and using a cast iron for other food I've been feeling a lot better.
 
-### Plasic
+### Plastic
 I started learning to make natto in part because I didn't like all the plastic waste associated with it. I eat natto almost every day now, and don't have to toss anything in the trash.
 
 ### Other beans
