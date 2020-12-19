@@ -51,6 +51,8 @@ Make sure to clean out the water in your Luvele while not in use, otherwise you'
 
 It's pretty expensive for what you get - I'm sure there are cheaper appliances out there. It also can only make maybe 1/2-2/3 cup of dry beans at a time, so if you want to make big batches I'd look for something cheaper.
 
+Don't bump into it. Water can splash out and into the controller, and it'll just fry the machine. :|
+
 ### Eating Natto
 I enjoy it plain, but it's good with a little bit of soy sauce too. I can't do raw onions, but it's often suggested to chop up some green onions to go with it.
 
