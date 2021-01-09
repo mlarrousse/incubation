@@ -2,8 +2,8 @@
 Do it.
 # Pressure cook
 * Added dry beans to cover the bottom of the pot with a little overlap
-* Added water to ~1cm above the beans (this seems too much)
-* Pressure cooked for 36 minutes (want to increase)
+* Added water to ~.5cm above the beans
+* Pressure cooked for 38 minutes
 # Add spores
 * 2 spoonfuls
 # Age
