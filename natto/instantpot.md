@@ -10,4 +10,4 @@ Do it.
 # Yogurt Mode
 Set to Yogurt Mode for 23hrs
 # Age
-Starts to be stringy after a day, but was still too moist.
+Starts to be stringy after a day, but was still too firm. 
